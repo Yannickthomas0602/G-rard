@@ -1,7 +1,6 @@
 import random
 
 def jeu_devinette():
-    noooooooooooooon
     print("Salut les boys ! 🎲")
     print("Je pense à un nombre entre 1 et 100...")
     
