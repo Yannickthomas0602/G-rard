@@ -1,7 +1,7 @@
 import random
 
 def jeu_devinette():
-    print("Bienvenue dans le jeu de devinette ! 🎲")
+    noooooooooooooon
     print("Je pense à un nombre entre 1 et 100...")
     
     nombre_secret = random.randint(1, 100)
